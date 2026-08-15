@@ -7,7 +7,7 @@ require_once __DIR__ . '/../partials/header.php';
 require_once __DIR__ . '/../partials/footer.php';
 
 $has_access = ensure_admin_access();
-$sucess_message=null;
+$success_message=null;
 $error_message = null;
 
 $reason = null;
